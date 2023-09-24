@@ -17,4 +17,4 @@ This project demonstrates various techniques of interacting and manipulating web
 
 1. Clone the repository:
 ```bash
-(https://github.com/shivanshsin0203/Learn_DOM_Project3.git)https://github.com/shivanshsin0203/Learn_DOM_Project3.git
+https://github.com/shivanshsin0203/Learn_DOM_Project3.git)https://github.com/shivanshsin0203/Learn_DOM_Project3.git
